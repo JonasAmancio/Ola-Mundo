@@ -1,2 +1,2 @@
-# Ola Mundo
-Testando repositorio do curso de GitHub
+# Olá, Mundo
+Testando repositório do curso de Git e GitHub
